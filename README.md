@@ -14,6 +14,7 @@ A bilingual NLP pipeline built from scratch for Arabic and English text processi
 
 ## Technologies
 
+- Python
 - Regex
 - Manual rule design and linguistic annotation
 
@@ -35,7 +36,3 @@ A bilingual NLP pipeline built from scratch for Arabic and English text processi
 3. Run all cells in order
 
 ---
-
-## About
-
-Developed by Nouran Salah — Computational Linguist and NLP specialist.
