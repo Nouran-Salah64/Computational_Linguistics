@@ -6,8 +6,7 @@ A bilingual NLP pipeline built from scratch for Arabic and English text processi
 
 ## What It Does
 
-- Builds a bilingual lexical database of 5,000 words covering English, Modern Standard Arabic (MSA), and Egyptian Colloquial Arabic (ECA)
-- Handles dialectal variation including 2,000 dialectal Arabic entries
+- Builds a lexical database of 10,000 English words and 10,000 Arabic words covering Modern Standard Arabic (MSA) and Egyptian Colloquial Arabic (ECA), including 2,000 dialectal entries
 - Implements rule-based sentence and word segmentation for Arabic using Regex
 - Includes a morphological analyzer, POS tagger, and syntactic parser built with handcrafted rules
 
@@ -37,3 +36,7 @@ A bilingual NLP pipeline built from scratch for Arabic and English text processi
 3. Run all cells in order
 
 ---
+
+## About
+
+Developed by Nouran Salah — Computational Linguist and NLP specialist.
