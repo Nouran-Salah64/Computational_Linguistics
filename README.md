@@ -14,7 +14,6 @@ A bilingual NLP pipeline built from scratch for Arabic and English text processi
 
 ## Technologies
 
-- Python
 - Regex
 - Manual rule design and linguistic annotation
 
